@@ -1,3 +1,6 @@
+django-shared
+=============
+
 .. contents:: Table of Contents
 
 This reusable app contains functionality I use across my projects. Feel free to use and expand.
