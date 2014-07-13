@@ -13,6 +13,19 @@ Changelog
 * 0.0.1
     * initial release
 
+Usage
+-----
+
+Add to your ``INSTALLED_APPS`` setting:
+
+.. code-block:: python
+
+    INSTALLED_APPS = [
+        ...
+        'shared',
+    ]
+
+
 Contents
 --------
 
