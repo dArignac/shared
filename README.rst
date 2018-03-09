@@ -3,22 +3,22 @@ django-shared
 
 |Downloads| |Version| |Wheel| |Egg| |Format| |License|
 
-.. |Downloads| image:: https://pypip.in/download/django-shared/badge.png
+.. |Downloads| image:: https://img.shields.io/pypi/dm/django-shared.svg
     :target: https://pypi.python.org/pypi/django-shared/
     :alt: Downloads
-.. |Version| image:: https://pypip.in/version/django-shared/badge.png
+.. |Version| image:: https://img.shields.io/pypi/v/django-shared.svg
     :target: https://pypi.python.org/pypi/django-shared/
     :alt: Latest Version
-.. |Wheel| image:: https://pypip.in/wheel/django-shared/badge.png
+.. |Wheel| image:: https://img.shields.io/pypi/wheel/django-shared.svg
     :target: https://pypi.python.org/pypi/django-shared/
     :alt: Wheel Status
 .. |Egg| image:: https://pypip.in/egg/django-shared/badge.png
     :target: https://pypi.python.org/pypi/django-shared/
     :alt: Egg Status
-.. |Format| image:: https://pypip.in/format/django-shared/badge.png
+.. |Format| image:: https://img.shields.io/pypi/format/django-shared.svg
     :target: https://pypi.python.org/pypi/django-shared/
     :alt: Download format
-.. |License| image:: https://pypip.in/license/django-shared/badge.png
+.. |License| image:: https://img.shields.io/pypi/l/django-shared.svg
     :target: https://pypi.python.org/pypi/django-shared/
     :alt: License
 
